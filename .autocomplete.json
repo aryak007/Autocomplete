@@ -1,0 +1,28 @@
+{
+    "commands": [
+        "docker images",
+        "docker ps",
+        "docker rm",
+        "docker rm -rf",
+        "docker-compose up",
+        "docker-compose up -d",
+        "docker-compose pause",
+        "docker-compose unpause",
+        "docker-compose stop",
+        "docker-compose rm",
+        "docker-compose build",
+        "docker-compose config",
+        "docker-compose down",
+        "docker-compose exec",
+        "docker-compose images",
+        "docker-compose logs",
+        "docker-compose port",
+        "docker-compose pull",
+        "docker-compose restart",
+        "docker-compose run",
+        "docker-compose start",
+        "docker-compose version",
+        "docker-compose push",
+        "docker-compose rm -f"
+    ]
+}
